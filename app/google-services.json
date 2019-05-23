@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073037170287",
+    "firebase_url": "https://kwiatek-smart.firebaseio.com",
+    "project_id": "kwiatek-smart",
+    "storage_bucket": "kwiatek-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073037170287:android:57efa47aead88b1e",
+        "android_client_info": {
+          "package_name": "com.example.pawelwas.smant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073037170287-ai528k3c4c4oe770nsv2lv7ok7v2o2ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pawelwas.smant",
+            "certificate_hash": "66a84747a02c62ab30cade243f12f882e00e8fc6"
+          }
+        },
+        {
+          "client_id": "1073037170287-6b2m14q9sj2p9ekm90alv2tbq2u2737i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjpcQg1owuxrb52-fCz6jM-fkCnNvz5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073037170287-6b2m14q9sj2p9ekm90alv2tbq2u2737i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
